@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Alexis
+![](https://media-exp1.licdn.com/dms/image/C4E16AQENCncuVBXIAw/profile-displaybackgroundimage-shrink_350_1400/0/1652059903438?e=1657756800&v=beta&t=aGoWl5AIbFxP-9mXIolzAMnj43JQGEeiyKyimFaZ1Hw)
 
-<!--
-**k4nijo/k4nijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a junior front-end developer who combines a passion for design and programming skills to deliver an engaging and efficient user experience.
+- Solid and modern web development stack, including ES6,Vue,Nuxt,CSS in JS.
+- Strong knowledge of Ui/Ux design principles, creation of prototypes and Ui guidelines using Figma and Adobe Suite.
+- I am a great team player.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexis-rodríguez-santiago/)  
+
