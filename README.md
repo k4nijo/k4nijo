@@ -6,7 +6,7 @@
 - Strong knowledge of Ui/Ux design principles, creation of prototypes and Ui guidelines using Figma and Adobe Suite.
 - I am a great team player.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / JS / HTML / CSS
 
 
 
